@@ -1,4 +1,4 @@
-[![MasterHead](http:https://www.michaelpage.com.au/sites/michaelpage.com.au/files/styles/advice_node_desktop/public/2022-01/Software%20Developer.jpg?itok=Q-PY42Hz)
+[![MasterHead](https://www.michaelpage.com.au/sites/michaelpage.com.au/files/styles/advice_node_desktop/public/2022-01/Software%20Developer.jpg?itok=Q-PY42Hz)
 <h1 align="center">Hi 👋, I'm İsmail Genç</h1>
 <h3 align="center">A passionate Fullstack developer from Turkey</h3>
 
