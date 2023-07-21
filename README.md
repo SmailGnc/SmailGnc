@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smailgnc&show_icons=true&locale=en" alt="smailgnc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smailgnc&" alt="smailgnc" /></p>
+
+![snake gif](https://github.com/SmailGnc/SmailGnc/blob/output/github-contribution-grid-snake.gif)
